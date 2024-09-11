@@ -1,0 +1,2 @@
+class PolyCommentsController < ApplicationController
+end
